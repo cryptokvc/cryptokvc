@@ -1,0 +1,13 @@
+# 5. Architecture SNARK
+
+Ce chapitre documente présenter circuit, setup, preuve et vérification à partir de GUIDE-SNARK.md, dans le parcours francophone de cryptokvc. La lecture sépare les faits observables, les hypothèses et les conséquences possibles.
+
+## Repères
+
+La revue suit les entrées, les contrôles, l’état produit et les dépendances externes. Les références restent rattachées au fichier indiqué afin de rendre la relecture vérifiable.
+
+## Limite
+
+un setup universel ne supprime pas toutes les hypothèses. Aucun test, audit ou déploiement n’est déclaré dans ce chapitre.
+
+[Chapitre suivant](./06-signatures.md)
