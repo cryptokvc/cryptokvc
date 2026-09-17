@@ -3,6 +3,10 @@
 Recherche et documentation technique sur les protocoles blockchain, les preuves zero-knowledge et les infrastructures EVM.
 Je transforme la lecture du code source en parcours francophones structurés : architecture, invariants, frontières de confiance et limites opérationnelles.
 
+## Parcours français
+
+Ce dépôt contient 63 chapitres documentaires source-grounded sur les protocoles ZK, FHEVM, Base, HyperEVM, Hyperliquid et les intégrations EVM. Consulter le [sommaire français](docs/fr/README.md) pour suivre les contributions dans l’ordre.
+
 ## Domaines
 
 - **Zero-knowledge** — zkVM, STARK, FRI, récursion, SNARK et vérification EVM.
